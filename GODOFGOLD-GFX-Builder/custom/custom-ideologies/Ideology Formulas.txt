@@ -1,0 +1,20 @@
+Ideology Formulas
+
+_______________________________________
+
+Nationalist
+
+1a-Black and White Icon/Piece
+
+1b-Hue (30) and Saturation (20)
+
+2-Color Balance by +50 (Red) and -50 (Yellow)
+
+3-Brightness (-100) and Contrast (30)
+
+Socialist
+
+1-Color Balance by +100 (Red)
+
+2-Brightness (30) and Contrast (50)
+

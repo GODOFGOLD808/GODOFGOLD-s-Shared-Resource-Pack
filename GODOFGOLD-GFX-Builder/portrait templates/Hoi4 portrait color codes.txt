@@ -1,0 +1,63 @@
+Hoi4 portrait color codes
+
+Note: Goes by R, G and B
+
+Body:
+
+-Basic Skin
+139
+105
+90
+
+-Skin overlay
+139
+100
+90
+
+-Basic dark (Hair)
+24
+16
+49
+
+-Natural Brown (Hair)
+124
+112
+104
+
+-Brown Alternative (Hair)
+102
+51
+0
+
+-Sclera (Eyes)
+153
+125
+125
+
+-Pupil (Eyes)
+0
+0
+0
+
+-Glint (Eyes)
+255
+255
+255
+
+-Blue (Eyes)
+102
+153
+153
+
+or
+
+102
+121
+153
+
+Clothes:
+
+-Gold (Medals/Accessories)
+255
+153
+51
