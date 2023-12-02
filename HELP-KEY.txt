@@ -4,3 +4,4 @@ GODOFGOLD's Shared Resource Pack\GODOFGOLD-GFX-Builder\custom
 
 Here you will find subfolders arranged for you to see in an organized fashion.
 
+aom-shared-assets-master is where the vsnilla stuff is mainly stored

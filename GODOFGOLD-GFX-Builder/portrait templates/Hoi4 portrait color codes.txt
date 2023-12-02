@@ -5,11 +5,25 @@ Note: Goes by R, G and B
 Body:
 
 -Basic Skin
+Opacity = 255 (Full) and Overlay Blend
 139
 105
 90
 
--Skin overlay
+-Cheeks/Nose
+Opacity = 50 and Overlay Blend
+139
+100
+90
+
+-5 Oclock Shadow
+Opacity = 130 and Overlay Blend
+111
+100
+90
+
+-Eye Sockets (Ensure it's very faded blue using color adjustments)
+Opacity = 70 and Overlay Blend
 139
 100
 90
